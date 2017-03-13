@@ -52,8 +52,8 @@ namespace AutoMail
             emailTo = data["emailTo"].ToString().Trim();
             subject = data["subject"].ToString().Trim();
             body = data["body"].ToString().Trim();
-            //filePath = data["pdfPath"].ToString().Trim()+"\\"+year+"\\"+monthnumber+"\\"+currentdate+"\\"+"report";
-          filePath = data["pdfPath"].ToString().Trim();
+            filePath = data["pdfPath"].ToString().Trim()+"\\"+year+"\\"+monthnumber+"\\"+currentdate+"\\"+"report";
+         // filePath = data["pdfPath"].ToString().Trim();
          
         }
         //method to send mail
