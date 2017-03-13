@@ -58,7 +58,7 @@ namespace AutoMail
         }
         //method to send mail
         public void sendMail()
-        {
+        { 
             
            
             LogWriter logwrite = new LogWriter();
