@@ -56,9 +56,10 @@ namespace AutoMail
          // filePath = data["pdfPath"].ToString().Trim();
          
         }
+        //testing gits
         //method to send mail
         public void sendMail()
-        { 
+        {  
             
            
             LogWriter logwrite = new LogWriter();
