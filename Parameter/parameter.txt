@@ -1,0 +1,8 @@
+smtpAddress = smtp.gmail.com
+portName = 587
+emailFrom = it.programmer@saraffglobal.com
+password = saraff@2017
+emailTo = it.programmer@saraffglobal.com
+subject = pdf reports
+body = Please see the attachment for the pdf reports
+pdfPath = D:\mailtest\2017\2017-03-Mar\2017-03-10\Report
